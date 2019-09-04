@@ -1,3 +1,4 @@
+
 # ksalertview
 
 [![CI Status](https://img.shields.io/travis/kseta233/ksalertview.svg?style=flat)](https://travis-ci.org/kseta233/ksalertview)
@@ -27,3 +28,4 @@ kseta233, kusuma.seta@silverglobe.com
 ## License
 
 ksalertview is available under the MIT license. See the LICENSE file for more info.
+
