@@ -20,6 +20,8 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'ksalertview'
 ```
+add source 'https://github.com/kseta233/KSPodSpecs'
+in PODFILE if needed
 
 ## Author
 
