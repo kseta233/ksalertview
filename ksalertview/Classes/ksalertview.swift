@@ -36,10 +36,6 @@ extension UIAlertController {
         return will(title: title, style: .cancel, handler: handler)
     }
     
-    public func willOK(title: String = "OK", handler: ((UIAlertAction) -> ())? = nil) -> UIAlertController {
-        return will(title: title, style: .cancel, handler: handler)
-    }
-    
     /**
      Add a button into Alert View.
      
