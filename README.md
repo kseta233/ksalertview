@@ -23,7 +23,7 @@ pod 'ksalertview'
 
 ## Author
 
-kseta233, kusuma.seta@silverglobe.com
+kseta233, kusuma.seta@gmail.com
 
 ## License
 
