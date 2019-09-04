@@ -1,0 +1,16 @@
+PODS:
+  - ksalertview (0.1.0)
+
+DEPENDENCIES:
+  - ksalertview (from `../`)
+
+EXTERNAL SOURCES:
+  ksalertview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ksalertview: d54d7a5e98a49d4f627fec74b0d64890abb50918
+
+PODFILE CHECKSUM: 5d0e8a07b5cc39d42bcb0ad2f6cba7240e2b14b0
+
+COCOAPODS: 1.7.5

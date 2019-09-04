@@ -1,0 +1,24 @@
+{
+  "name": "ksalertview",
+  "version": "0.1.0",
+  "summary": "KSAlertView custom UIAlert with callback.",
+  "description": "KSAlertView custom UIAlert with callback. So it neaten the code",
+  "homepage": "https://github.com/kseta233/ksalertview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kseta233": "kusuma.seta@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/kseta233/ksalertview.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ksalertview/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}
