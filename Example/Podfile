@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ksalertview_Example' do
+  pod 'ksalertview', :path => '../'
+
+  target 'ksalertview_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
