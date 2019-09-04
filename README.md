@@ -1,2 +1,1 @@
-# myalertview
-just for testing cocoapod
+# myalertview-specs
